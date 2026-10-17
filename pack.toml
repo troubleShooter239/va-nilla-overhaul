@@ -1,0 +1,13 @@
+name = "va-nilla overhaul"
+author = "troubleShooter239"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a8baedd72cf7af26248537d75f9cf0d68d901225cc520231bf5247239f32114"
+
+[versions]
+fabric = "0.20.0"
+minecraft = "26.3"

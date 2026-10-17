@@ -1,0 +1,7 @@
+*.mrpack
+*.zip
+*.tar.gz
+*.jar
+*.exe
+.DS_Store
+.vscode
